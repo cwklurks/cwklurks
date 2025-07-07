@@ -1,16 +1,13 @@
-## Hi there 👋
+# Connor
 
-<!--
-**cwklurks/cwklurks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High-school student building projects related to AI and finance. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+- Neural networks for financial prediction, NLP for market sentiment analysis
+- Currently exploring how machine learning can solve real-world problems in algorithmic trading
+  
+## Tech stack
+**Languages**: Python, JavaScript, R, SQL  
+**ML/AI**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
+**Finance**: QuantLib, Zipline, Alpha Architect, Yahoo Finance API  
+**Other**: Git, Docker, AWS, PostgreSQL
