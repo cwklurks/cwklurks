@@ -11,3 +11,5 @@ High-school student building projects related to AI and finance.
 **ML/AI**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
 **Finance**: QuantLib, Zipline, Alpha Architect, Yahoo Finance API  
 **Other**: Git, Docker, AWS, PostgreSQL
+
+[![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwklurks)](https://github.com/cwklurks/github-readme-stats)
