@@ -1,4 +1,4 @@
-# Connor
+## Hi, I'm Connor!
 
 High-school student building projects related to AI and finance. 
 
