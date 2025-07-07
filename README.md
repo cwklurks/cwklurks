@@ -7,7 +7,7 @@ High-school student building projects related to AI and finance.
 - Currently exploring how machine learning can solve real-world problems in algorithmic trading
   
 ## Tech stack
-**Languages**: Python, JavaScript, R, SQL  
+**Languages**: Python, JavaScript, SQL  
 **ML/AI**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy  
 **Finance**: QuantLib, Zipline, Alpha Architect, Yahoo Finance API  
 **Other**: Git, Docker, AWS, PostgreSQL
