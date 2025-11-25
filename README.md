@@ -7,6 +7,5 @@
 ## 🌐 Socials
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amazingcwk2@gmail.com) 
 # 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=cwklurks&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cwklurks&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
