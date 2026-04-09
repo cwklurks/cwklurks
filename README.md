@@ -1,11 +1,13 @@
 <div align="center">
 
-# Connor
+# Connor, 16
 
-**Building AI systems & developer tools.**
+**AI/ML and full-stack engineer from Vancouver.**
 
-Python • TypeScript • Rust
-PyTorch • Next.js • Docker
+RAG system ranked #1 by Google Canada · Audio ML for Suno AI · TKS Innovator
 
-[Website](https://connork.com) 
+`Python` `TypeScript` `Rust` `PyTorch` `Next.js` `Docker`
+
+[![Portfolio](https://img.shields.io/badge/connork.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://connork.com)
+
 </div>
